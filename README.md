@@ -1,6 +1,6 @@
-# Welcome to Invoice Generator App (Next.js)
+# Welcome to Invoice Generator App (Next.js)!
 
-## Brief Description
+## Brief Description:
 
 A web-based invoicing application built with Next.js designed to simplify billing and invoice creation for freelancers, small business owners, and contractors. Users can quickly input client details, line items, tax rates, and payment terms to generate, preview, and download custom PDF invoices.
 
@@ -25,7 +25,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Features
+## Features:
 
 * **Dynamic Invoice Drafting**: Add line items, quantity, unit prices, discounts, and taxes with live subtotal calculations.
 * **Client & Item Management**: Fill in client details and vendor information effortlessly.
